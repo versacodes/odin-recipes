@@ -1,4 +1,8 @@
 # odin-recipes
 A basic recipe website
 
-Creating a basic recipe website using basic HTML
+This recipe website contains 3 recipes from the internet:
+
+-Sweet Fruity Pancakes
+-Avocado Mango Smoothie
+-Creamy Chicken Soup
